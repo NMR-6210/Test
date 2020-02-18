@@ -1,2 +1,2 @@
 # Test
-just for testinf some java files
+just for testing some java files
